@@ -4,7 +4,7 @@ Assignment 10 : LeetCode Array Challenge
 Language      : C
 Concepts Used : Arrays, Searching,
                 Sorting, Algorithm Analysis
-=========================================================
+ =========================================================
 */
 
 #include <stdio.h>
